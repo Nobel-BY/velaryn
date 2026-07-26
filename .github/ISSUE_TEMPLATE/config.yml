@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Velaryn 使用文档
+    url: https://velaryn.cn/docs/
+    about: 安装、配置和快速上手
+  - name: 安全与数据边界
+    url: https://velaryn.cn/security/
+    about: 请勿公开敏感安全信息

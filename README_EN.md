@@ -7,6 +7,8 @@ Velaryn is a local-first AI knowledge base and agent workspace designed for Andr
 - Website: https://velaryn.cn/
 - Download: https://velaryn.cn/download/
 - Documentation: https://velaryn.cn/docs/
-- Current release: v0.9.0 Beta, Android 12+, ARM64
+- Current release: v0.9.2 Beta, Android 12+, ARM64
+
+Version 0.9.2 adds evidence-aware research workflows, explicit knowledge-source scoping, Creation Spaces for tablet-first project work, reviewable multi-file patches with checkpoints, and dedicated Obsidian Vault / Notion export import flows. See [CHANGELOG.md](CHANGELOG.md) for details.
 
 This repository is the public product home and issue tracker; it is not a claim that the complete application source is published here. Velaryn is customized from Mintplex Labs' AnythingLLM Mobile under the MIT License. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

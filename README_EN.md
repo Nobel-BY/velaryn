@@ -7,7 +7,9 @@ Velaryn is a local-first AI knowledge base and agent workspace designed for Andr
 - Website: https://velaryn.cn/
 - Download: https://velaryn.cn/download/
 - Documentation: https://velaryn.cn/docs/
-- Current release: v0.9.3 Beta, Android 12+, ARM64
+- Current release: v0.9.5 Beta, Android 12+, ARM64
+
+Version 0.9.5 completes the web clipping and active reading workflow. Shared web pages are extracted in an isolated WebView, cleaned, previewed, deduplicated, and stored as Markdown with a script-free HTML snapshot. PDF, DOCX, Markdown, and text readers now provide excerpt, explain, translate, ask, note, link, and flashcard actions. Derived notes preserve exact source anchors and can jump back to the original material. Version 0.9.4 introduced Android system sharing and the persistent capture inbox that this release builds on.
 
 Version 0.9.3 adds reproducible retrieval evaluation, query rewriting, bounded multi-query recall, parent-context expansion, optional model reranking, and unified versioned Markdown writes for Agent and MCP. Single and batch changes show line diffs, reject stale versions, preserve audit records, and can restore history as a new version.
 
